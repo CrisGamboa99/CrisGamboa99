@@ -4,9 +4,9 @@
 
 ### 💬 &nbsp;Connect With Me
 
-<a href="https://www.hackerrank.com/profile/cristian_gamboa1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_CrisGamboa99" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/cristian-eduardo-gamboa-escobedo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href = "mailto: cris.gamboa.99@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/cristian_gamboa1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_CrisGamboa99" height="30" width="40" /></a>
 
 ---
 
